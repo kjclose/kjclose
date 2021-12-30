@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kjclose
-- 👀 I’m interested in PAOs, EBPR and wastewater treatment
-- 🌱 I’m currently learning how to use python from modelling
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in phosphorus, PAOs, EBPR and wastewater treatment
+- 💞️ I’m looking to collaborate on phosphorus recovery 
 - 📫 How to reach me k.close@uq.net.au
 
 <!---
